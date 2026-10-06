@@ -30,7 +30,7 @@ Built for researchers and practitioners across the stack — from foundations to
 </p>
 
 <p align="center">
-  <sub><strong>Last updated:</strong> 2026-08-21 &middot; <strong>229 entries</strong> across 14 canonical categories</sub>
+  <sub><strong>Last updated:</strong> 2026-10-06 &middot; <strong>230 entries</strong> across 14 canonical categories</sub>
 </p>
 
 <div align="center">
@@ -401,6 +401,7 @@ Middleware, runtime stacks, and reference patterns for shipping robots in produc
 - [Zenoh](https://zenoh.io/) — Data-centric middleware for distributed robotics over constrained and heterogeneous networks.
 - [rosbag2](https://github.com/ros2/rosbag2) — Standard ROS 2 recording and replay pipeline for debugging and incident analysis.
 - [ABot-AgentOS](https://arxiv.org/abs/2607.10350) — Robotic agent operating layer for scene-conditioned planning, skill execution, verification, multimodal memory, and edge-cloud collaboration.
+- [Monolithos Robot Brain](https://github.com/silas-zhen/robot-brain) — Long-term memory and experience layer for embodied AI; public Alpha, evaluation license.
 
 ## Courses
 
